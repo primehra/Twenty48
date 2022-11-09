@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\piame\OneDrive\Desktop\priya&apos;s stuff\Penn\freshman year\CIS 120\hw09\hw09_local_temp\src\main\java\org\cis120\mygame\RunTwenty48.java">
+</file>
+<file name="C:\Users\piame\OneDrive\Desktop\priya&apos;s stuff\Penn\freshman year\CIS 120\hw09\hw09_local_temp\src\main\java\org\cis120\mygame\Twenty48Copy.java">
+<error line="323" column="29" severity="warning" message="Must have at least one statement." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck"/>
+</file>
+<file name="C:\Users\piame\OneDrive\Desktop\priya&apos;s stuff\Penn\freshman year\CIS 120\hw09\hw09_local_temp\src\test\java\org\cis120\mygame\GameTest.java">
+</file>
+</checkstyle>
